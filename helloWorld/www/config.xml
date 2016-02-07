@@ -9,7 +9,7 @@
     <name>Phua's app</name>
 
     <description>
-        This is Phua's challenger application. This app doesn't use the the sensors of your mobile phone (yet).
+        This is Phua's challenger application. This app doesn't use the sensors of your mobile phone (yet).
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
@@ -76,7 +76,7 @@
     -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="www/doge.jpg" />
+    <icon src="doge.jpg" />
     <icon src="www/res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:qualifier="ldpi" />
     <icon src="www/res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:qualifier="mdpi" />
     <icon src="www/res/icon/android/icon-72-hdpi.png"   gap:platform="android"    gap:qualifier="hdpi" />
